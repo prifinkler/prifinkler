@@ -13,6 +13,9 @@
 <p>📫 Get in touch by <a href="mailto:prifinkler@gmail.com" target="_blank">email</a></p>
 <hr>
 
+![Priscila's GitHub stats](https://github-readme-stats.vercel.app/api?username=prifinkler&theme=tokyonight&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prifinkler&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <h3 align="center">Technologies</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Ruby-323d55?style=for-the-badge&logo=ruby&logoColor=white">
