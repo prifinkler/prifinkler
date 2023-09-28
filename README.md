@@ -10,7 +10,7 @@
 <p>🎭 Former Theatre Manager</p>
 <p>💞️ I’m looking to collaborate on projects related to web development and building useful and fun applications.</p>
 <p>📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/priscilafinkler/">LinkedIn</a></p>
-<p>📫 Get in touch by <a href="prifinkler@gmail.com" target="_blank">email</a></p>
+<p>📫 Get in touch by <a href="mailto:prifinkler@gmail.com" target="_blank">email</a></p>
 <hr>
 
 <h3 align="center">Technologies</h3>
