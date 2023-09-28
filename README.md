@@ -17,6 +17,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prifinkler&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prifinkler&layout=compact&theme=tokyonight)
 
+<hr>
 <h3 align="center">Technologies</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Ruby-323d55?style=for-the-badge&logo=ruby&logoColor=white">
