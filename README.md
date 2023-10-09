@@ -6,8 +6,8 @@
 <p>📆 Available for Developer work</p> 
 <p>🧠 Full-stack trained</p>
 <p>🌱 Currently learning new programming languages, frameworks, and improving my problem-solving skills.
-<p>🧣 Fashion Design and Graphic Design background</p>
-<p>🎭 Former Theatre Manager</p>
+<p>🧣 Design background</p>
+<p>🎭 Theatre Manager in a different life</p>
 <p>💞️ I’m looking to collaborate on projects related to web development and building useful and fun applications.</p>
 <p>📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/priscilafinkler/">LinkedIn</a></p>
 <p>📫 Get in touch by <a href="mailto:prifinkler@gmail.com" target="_blank">email</a></p>
