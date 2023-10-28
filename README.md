@@ -40,6 +40,18 @@
 <img src="https://img.shields.io/badge/Trello-4b4668?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Terminal-3f425f?style=for-the-badge&logo=windows%20terminal&logoColor=white"> 
 </div>
+<hr>
+<h3 align="center">Methodologies and Best Practices</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/Agile-5F1A37?style=for-the-badge&logo=agile&logoColor=white">
+    <img src="https://img.shields.io/badge/Kanban-671c3b?style=for-the-badge&logo=kanban&logoColor=white">
+    <img src="https://img.shields.io/badge/Pair%20Programming-731e40?style=for-the-badge&logo=pair-programming&logoColor=white">
+    <img src="https://img.shields.io/badge/Code%20Review-7c2153?style=for-the-badge&logo=code-review&logoColor=white">
+    <img src="https://img.shields.io/badge/Design%20Thinking-892467?style=for-the-badge&logo=design-thinking&logoColor=white">
+    <img src="https://img.shields.io/badge/TDD-a2277b?style=for-the-badge&logo=tdd&logoColor=white">
+    <img src="https://img.shields.io/badge/Responsive%20Web%20Design-b22a8f?style=for-the-badge&logo=web&logoColor=white">
+</div>
+
 <!---
 prifinkler/prifinkler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
