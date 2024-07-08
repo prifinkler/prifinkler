@@ -1,11 +1,11 @@
 <h1><samp>👋 Hey there, I’m Priscila Finkler Innocente</samp></h1>
-<samp>「 I am a full stack web appplication developer from <b>Brazil</b>, 🚐 Le Wagon London Graduate 」</samp>
+<samp>「 I am a frontend developer from <b>Brazil</b>, 🚐 Le Wagon London Graduate 」</samp>
     
 
 <hr>
-<p>📆 Available for Developer work</p> 
+<p>📆 Available for work</p> 
 <p>🧠 Full-stack trained</p>
-<p>🌱 Currently learning new programming languages, frameworks, and improving my problem-solving skills.
+<p>🌱 Currently learning React and improving my problem-solving skills.
 <p>🧣 Design background</p>
 <p>🎭 Theatre Manager in a different life</p>
 <p>💞️ I’m looking to collaborate on projects related to web development and building useful and fun applications.</p>
@@ -20,15 +20,16 @@
 <hr>
 <h3 align="center">Technologies</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Ruby-323d55?style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby_on_Rails-324258?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-2e5d6c?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-276e79?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-22777f?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-148688?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-0c8a8b?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-0c8a8b?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-009894?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/React-335360?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-3A626F?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-3B6974?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-3C6F78?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-3D767D?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-3E7C81?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-3F8386?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-40898A?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-41908F?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-429693?style=for-the-badge&logo=heroku&logoColor=white">
 <hr>
 <h3 align="center">Tools</h3>
 <img src="https://img.shields.io/badge/Slack-2a143b?style=for-the-badge&logo=slack&logoColor=white">
