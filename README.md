@@ -1,11 +1,11 @@
 <h1><samp>👋 Hey there, I’m Priscila Finkler Innocente</samp></h1>
-<samp>「 I am a frontend developer from <b>Brazil</b>, 🚐 Le Wagon London Graduate 」</samp>
+<samp>「 I am a full-stack developer from <b>Brazil</b>, 🚐 Le Wagon London Graduate 」</samp>
     
 
 <hr>
 <p>📆 Available for work</p> 
 <p>🧠 Full-stack trained</p>
-<p>🌱 Currently learning React and improving my problem-solving skills.
+<p>🌱 Currently upskilling in React and improving my problem-solving skills.
 <p>🧣 Design background</p>
 <p>🎭 Theatre Manager in a different life</p>
 <p>💞️ I’m looking to collaborate on projects related to web development and building useful and fun applications.</p>
