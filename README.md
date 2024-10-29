@@ -1,17 +1,13 @@
 <h1><samp>👋 Hey there, I’m Priscila Finkler</samp></h1>
-<samp>「 Frontend Developer | Javascript | Ruby on Rails | React | CSS | Bootstrap | Accessibility 」</samp>
+<samp>「 Frontend Developer | React | Javascript | Ruby on Rails | CSS | Bootstrap | Accessibility 」</samp>
     
 
 <hr>
-<p>I'm a Frontend Developer with full-stack capabilities, specialising in React, JavaScript and Ruby on Rails. My toolkit includes CSS, Sass, Bootstrap, HTML, Stimulus, Turbo, PostgreSQL, Git, GitHub and accessibility best practices. My current interests include exploring Typescript, Tailwind and testing to enhance my frontend expertise. With a year experience in web development, I've built applications for sustainability and entertainment industries. You can see evidence of my work on EnerGeo, Dishy, Gnome Hats and 80's Movies Mixtape, available on my portfolio and on my GitHub.</p>
+<p>I'm a Frontend Developer with full-stack capabilities, specialising in React, JavaScript and Ruby on Rails. My toolkit includes CSS, SCSS, Bootstrap, HTML, Stimulus, Turbo, PostgreSQL, Git workflow and accessibility best practices. My current interests include exploring Typescript, Tailwind and testing to enhance my frontend expertise. With a year experience in web development, I've built applications for sustainability and entertainment industries. You can see evidence of my work on EnerGeo, Dishy, Gnome Hats and 80's Movies Mixtape, available on my portfolio and on my GitHub.</p>
 
-<p>At EnerGeo, I led front-end development and developed an interactive dashboard visualising real-time UK energy sourcing and environmental impact. I integrated React with Vite, implemented Material UI components, and used React-Leaflet with MapTiler for interactive map functionality. This project showcases my ability to transform complex data into accessible, user-friendly interfaces. </p>
+<p>🎭 → 💻 I bring a unusual perspective to software development, having transitioned from theatre management in the West End where I led large-scale operations for over a decade, and digital transformation projects. Leading operations for world-class productions like "Hamilton" taught me the invaluable skill of anticipating user needs and delivering solutions that delight - whether it's theatre patrons or web application users.</p>
 
-<p>My background is in theatre management, where I led large-scale West End operations for over a decade. This experience has honed my project management skills and ability to thrive in high-pressure, collaborative environments - attributes I now apply to creating memorable digital experiences.</p>
-
-<p>As a Web Development Teaching Assistant at Le Wagon, I guide students through full-stack bootcamps, covering Ruby on Rails, JavaScript, HTML, CSS, PostgreSQL, and industry best practices. This role has sharpened my ability to explain technical concepts clearly and approach problem-solving from multiple angles.</p>
-
-<p>🌱 Always learning, forever curious, I'm excited about leveraging my creative and technical skills to build innovative, user-centric web applications and eager to contribute my expertise to a dynamic development team.</p>
+<p>🌱 Always learning, forever curious, I'm excited about using my creative and technical skills to build innovative, user-centric web applications, and I'm eager to contribute my expertise to a fun and talented development team.</p>
 
 <br>
 <p>📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/priscilafinkler/">LinkedIn.</a></p>
